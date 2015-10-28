@@ -1,0 +1,9 @@
+Package: com.ziph0n.buttondisabler
+Name: ButtonDisabler
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable physical buttons / Stop defective buttons from triggering inadvertently.
+Maintainer: Ziph0n
+Author: Ziph0n
+Section: Tweaks

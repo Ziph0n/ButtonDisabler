@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>General</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Options</string>
+			<key>footertext</key>
+			<string>The last one disables the home button everywhere EXCEPT on the Lock Screen which allows single press. It can be useful if the Home Button rarely malfunctions... So you can still wake the Lock Screen.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>lockbutton</string>
+			<key>label</key>
+			<string>Lock Button Disabler</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>ringerswitch</string>
+			<key>label</key>
+			<string>Ringer Switch Disabler</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>volumeboth</string>
+			<key>label</key>
+			<string>Volume Button Disabler (Both)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>volumeup</string>
+			<key>label</key>
+			<string>Volume Up Button Disabler</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>volumedown</string>
+			<key>label</key>
+			<string>Volume Down Button Disabler</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>headsetmiddle</string>
+			<key>label</key>
+			<string>Headset Middle Button Disabler (All Actions)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>headsetmiddlesimpleclick</string>
+			<key>label</key>
+			<string>Headset Middle Button Disabler (Simple Click)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>headsetmiddledoubleclick</string>
+			<key>label</key>
+			<string>Headset Middle Button Disabler (Double Click)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>headsetmiddletripleclick</string>
+			<key>label</key>
+			<string>Headset Middle Button Disabler (Triple Click)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>headsetmiddlelongclick</string>
+			<key>label</key>
+			<string>Headset Middle Button Disabler (Long Click - Siri)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>homebutton</string>
+			<key>label</key>
+			<string>Home Button Disabler (Everywhere)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ziph0n.buttondisabler</string>
+			<key>key</key>
+			<string>homebuttonnotls</string>
+			<key>label</key>
+			<string>Home Button Disabler (Not On Lockscreen)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>All changes require a Respring</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Apply Changes (Respring)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>This tweak is free. If you like it, please consider a little donation! :)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>donateziph0n</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+			<key>label</key>
+			<string>Donate Via PayPal to Ziph0n</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>donatesinfool</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+			<key>label</key>
+			<string>Donate Via PayPal to sinfool</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>About</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>sourceOnGithub</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>github.png</string>
+			<key>label</key>
+			<string>Source Code on GitHub</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>sendEmail</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>mail.png</string>
+			<key>label</key>
+			<string>Email Support</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>twitterziph0n</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Follow me on Twitter (@Ziph0n)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>redditziph0n</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>reddit.png</string>
+			<key>label</key>
+			<string>Find me on Reddit (/u/Ziph0n)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>redditsinfool</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>reddit.png</string>
+			<key>label</key>
+			<string>Find me on Reddit (/u/sinfool)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Credits</string>
+			<key>footerText</key>
+			<string>The guy who made the beautiful icon of ButtonDisabler</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>twitterturna</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Turna (@byturna)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>© 2015 Ziph0n (@Ziph0n)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>ButtonDisabler</string>
+</dict>
+</plist>
